@@ -16,6 +16,10 @@ KNeighbors:0.8423606557377049
 LogisticRegression:0.8604590163934426
 Decision Tree:0.7651147540983606
 
+Note
+===
+Data:https://drive.google.com/drive/folders/10nH3YCGQ_qvN3uYi0888ETDnkgDohIpr?usp=sharing
+
 
 
 
