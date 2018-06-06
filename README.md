@@ -5,8 +5,9 @@ it is a machine learning model which does a good job of filtering out high perce
 Framework used
 ===
 i used KNeighbors,LogisticRegression,Decision Tree model
+
 How to use?
 ===
-just by running 
+just by running loaipynb_def_predic.ipynb 
 
 
