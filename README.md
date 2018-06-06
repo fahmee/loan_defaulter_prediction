@@ -10,4 +10,14 @@ How to use?
 ===
 just by running loaipynb_def_predic.ipynb 
 
+Accuracy:
+===
+KNeighbors:0.8423606557377049
+LogisticRegression:0.8604590163934426
+Decision Tree:0.7651147540983606
+
+
+
+
+
 
