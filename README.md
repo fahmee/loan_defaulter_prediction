@@ -1,4 +1,4 @@
-loan_defaulter_prediction
+loan_default_predic
 ===
 it is a machine learning model which does a good job of filtering out high percentage of loan defaulters.
 
